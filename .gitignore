@@ -1,0 +1,12 @@
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.settings
+*.classpath
+*.ideia
+/target/*
+/build/*
+ 
